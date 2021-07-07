@@ -1,6 +1,3 @@
-/Users/maxwelco/Documents
-
-
 library(xaringan)
 library(xaringanthemer)
 library(xaringanExtra)
