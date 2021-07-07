@@ -7,7 +7,7 @@ date: "2021-07-07"
 output:
   xaringan::moon_reader:
     nature:
-      slideNumberFormat: "%current%"
+      slideNumberFormat: "Slide %current% of %total%"
       highlightStyle: github
       highlightLines: true
       ratio: 16:9

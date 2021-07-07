@@ -69,6 +69,9 @@ There are **9** .species[species] in the .genus[Avahi] genus, here are **4** of 
 .common-name {
   color: var(--orange);
 }
+
+
+
 .sci-name {
   font-style: italic;
 }

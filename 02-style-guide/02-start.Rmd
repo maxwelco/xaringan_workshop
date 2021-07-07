@@ -33,9 +33,12 @@ knitr::opts_chunk$set(
 library(xaringanthemer)
 
 style_duo_accent(
-  primary_color = "#1381B0",  # Blue
-  secondary_color = "#FF961C" # Yellow/orange
-  inverse_header_color = "#FFFFFF"
+  primary_color = "#1696d2",  # Blue
+  secondary_color = "#fdbf11", # Yellow/orange
+  inverse_header_color = "#FFFFFF",
+  title_slide_background_color = "#db2b27",
+  link_color = "#FFFFFF",
+  header_font_google = "#Lato"
 )
 ```
 

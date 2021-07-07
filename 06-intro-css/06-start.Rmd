@@ -30,11 +30,13 @@ class: center middle
 ---
 class: center middle
 
-Lemurs are the most endangered mammals on Earth
-
-![A cute lemur](lemur.jpg)
+.big[Lemurs] are the most endangered mammals on .big[Earth]
 
 
+.bottom-right[
+.fade[
+![A cute lemur](lemur.jpg)]
+]
 
 
 

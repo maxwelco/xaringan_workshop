@@ -29,13 +29,21 @@ class: center middle
 
 ---
 class: image-sidebar-right
+background-image: url(https://source.unsplash.com/83gB_koMuvA)
+background-position: right
+background-size: contain
 
+.title[
 # Awesome Lemurs
+]
 
-Lorem per erat vulputate iaculis eu in dui vestibulum.
 
-Amet fermentum sodales himenaeos nascetur lectus nunc hac nascetur auctor.
+.body[
+- Lorem per erat vulputate iaculis eu in dui <br>vestibulum.
 
-Consectetur in accumsan neque libero magna leo felis viverra!
+- Amet fermentum .red[sodales himenaeos] nascetur <br>lectus nunc hac nascetur auctor.
 
-Ipsum eros facilisi habitant habitant ultricies maecenas tellus parturient interdum potenti nisl.
+- Consectetur in accumsan neque libero magna leo <br>felis viverra!
+
+- Ipsum eros facilisi habitant habitant <br>ultricies maecenas tellus parturient interdum <br>potenti nisl.
+]
